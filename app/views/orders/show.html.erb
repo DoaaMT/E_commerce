@@ -1,0 +1,19 @@
+
+<h3 class="show"> product name: </h3> 
+<h3 class="show2"> <%= @product.name %> </h3>
+
+<h3 class="show"> Price: </h3> 
+<h3 class="show2"> <%= @product.price %> SR</h3>
+
+<%= image_tag(@product.img , size: "200x250", alt: "product Image") %>
+
+<h3 class="show"> Description: </h3> 
+<h3 class="show2"> <%=@product.description %> </h3>
+
+<h3 class="show"> Quantity: </h3> 
+<h3 class="show2"> <%=@order.quantity %> </h3>
+
+
+<br>
+<%= link_to 'Back to orders', orders_path , :class => "btn btn-danger" %>
+<br>
