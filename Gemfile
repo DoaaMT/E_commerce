@@ -56,3 +56,6 @@ gem 'bootstrap', '~> 4.4.1'
 
 gem 'jquery-rails'
 
+group :production do
+  gem 'pg'
+end
