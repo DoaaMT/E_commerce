@@ -37,15 +37,23 @@ The user can only edite his own products and orders.
 - Tracking order
 
 
-# Pictures for the game
+# Pictures for the website
 
+- Registration page.
 <img src="Pic/1.PNG" alt="Capture 1">
+- All products for all users
 <img src="Pic/2.PNG" alt="Capture 2">
+- Product show page.
 <img src="Pic/3.PNG" alt="Capture 3">
+- Add to card page.. there are only 23 product in the stock.
 <img src="Pic/4.PNG" alt="Capture 4">
+- User order's page. It's will only appears to the specific user
 <img src="Pic/5.PNG" alt="Capture 5">
+- The user can delete his own order
 <img src="Pic/6.PNG" alt="Capture 6">
+- User can add a new product to sell
 <img src="Pic/7.PNG" alt="Capture 7">
+- User can manage his own products
 <img src="Pic/8.PNG" alt="Capture 8">
 
 
