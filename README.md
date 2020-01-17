@@ -39,12 +39,15 @@ The user can only edite his own products and orders.
 
 # Pictures for the game
 
-<img src="Pic/Capture0.PNG" alt="Capture 1">
-<img src="Pic/Capture1.PNG" alt="Capture 2">
-<img src="Pic/Capture2.PNG" alt="Capture 3">
-<img src="Pic/Capture3.PNG" alt="Capture 4">
-<img src="Pic/Capture4.PNG" alt="Capture 5">
-<img src="Pic/Capture5.PNG" alt="Capture 6">
+<img src="Pic/1.PNG" alt="Capture 1">
+<img src="Pic/2.PNG" alt="Capture 2">
+<img src="Pic/3.PNG" alt="Capture 3">
+<img src="Pic/4.PNG" alt="Capture 4">
+<img src="Pic/5.PNG" alt="Capture 5">
+<img src="Pic/6.PNG" alt="Capture 6">
+<img src="Pic/7.PNG" alt="Capture 7">
+<img src="Pic/8.PNG" alt="Capture 8">
+
 
 
 # How i solved the card budget
